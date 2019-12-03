@@ -26,5 +26,5 @@ def directors_totals(nds)
     name_index += 1
   end
   # Be sure to return the result at the end!
-  nil
+  result
 end
